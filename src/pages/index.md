@@ -18,20 +18,37 @@ description: >-
 intro:
   blurbs:
     - image: /img/430x420_img5.jpg
-      text: |
-        Baptism services
+      text: >-
+        Baptism with water and the Holy Spirit is the sign and seal of our
+        common discipleship. Since baptism is God’s gift, the Holy Spirit is
+        called to be upon the water and those being baptized. The act of baptism
+        also marks the beginning of a new life of discipleship with Christ, the
+        human response to that gift.
     - image: /img/youth4.jpg
-      text: |
-        Youth services.
+      text: >-
+        Our congregation encourages them to “grow up in the light of God” as
+        kind and caring love ambassadors spreading the good news about Jesus and
+        his profound ministry. At Miami Beach Community Church (MBCC) children
+        and youth express themselves through the arts, discuss beliefs and honor
+        their spiritual growth.
     - image: /img/rentals.jpg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Let Miami Beach Community Church be the venue of your next event.
+        Weather it is King Chapel for a more intimate gathering or Hice Hall for
+        larger gatherings, Miami Beach Community Church is the perfect place for
+        wedding receptions, Anniversary, Birthday Party, Baby Shower, Corporate
+        Event or any Social Gatherings / Celebration.
     - image: /img/restoration7.jpg
-      text: Restoration update
+      text: >-
+        As MBCC approaches our Centennial Celebration in 2021, it is our hope
+        and passion to continue to serve our community with renewed energy,
+        vision, faith, love, and a fully renovated campus for the next 100
+        years!
+
+
+        Church services are being provided in Hice Hall during construction. The
+        entrance is at 1620 Drexel Ave. We hope that you join us on this journey
+        and help us to make new memories, friendships, and traditions. 
   heading: What we offer
   description: |+
 
