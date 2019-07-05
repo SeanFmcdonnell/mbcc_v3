@@ -2,12 +2,8 @@
 templateKey: product-page
 title: Our People
 image: /img/1920x980_slide1.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Board of Directors
+description: ' '
 intro:
   blurbs:
     - image: /img/coffee.png
